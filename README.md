@@ -4,25 +4,6 @@
   <img src="public/logo.png" alt="MoonTVPlus Logo" width="120">
 </div>
 
-## ⚠️ 请某些人停止你的抄袭行为，不要我上什么功能你就抄什么，借鉴≠抄袭
-
-> 🎬 **MoonTVPlus** 是基于 [MoonTV v100](https://github.com/MoonTechLab/LunaTV) 二次开发的增强版影视聚合播放器。它在原版基础上新增了外部播放器支持、视频超分、弹幕系统、评论抓取等实用功能，提供更强大的观影体验。
-
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-14-000?logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38bdf8?logo=tailwindcss)
-![TypeScript](https://img.shields.io/badge/TypeScript-4.x-3178c6?logo=typescript)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Docker Ready](https://img.shields.io/badge/Docker-ready-blue?logo=docker)
-
-</div>
-
-
----
-
-## 🎉 相对原版新增内容
-
 - 🎮 **外部播放器跳转**：支持 PotPlayer、VLC、MPV、MX Player、nPlayer、IINA 等多种外部播放器
 - ✨ **视频超分 (Anime4K)**：使用 WebGPU 技术实现实时视频画质增强（支持 1.5x/2x/3x/4x 超分）
 - 💬 **弹幕系统**：完整的弹幕搜索、匹配、加载功能，支持弹幕设置持久化、弹幕屏蔽
