@@ -2984,7 +2984,7 @@ export const UserMenu: React.FC = () => {
             <span className='font-medium'>电视访问</span>
           </button>
 
-          {/* 生态应用按钮 */}
+                 {/* 生态应用按钮（已隐藏）
           <button
             onClick={() => {
               setIsOpen(false);
@@ -2995,10 +2995,10 @@ export const UserMenu: React.FC = () => {
             <Package className='w-4 h-4 text-gray-500 dark:text-gray-400' />
             <span className='font-medium'>生态应用</span>
           </button>
+          */}
 
           {/* 分割线 */}
           <div className='my-1 border-t border-gray-200 dark:border-gray-700'></div>
-
           {/* 登出按钮 */}
           <button
             onClick={handleLogout}
